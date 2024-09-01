@@ -95,14 +95,14 @@ strong {
 }
 
 .current-temp-icon {
-  font-size: 55px;
-  margin-top: 17px;
+  width: 100px;
+  height: 100px;
 }
 
 .current-temp-value {
   font-weight: bold;
-  font-size: 80px;
-  margin-left: 18px;
+  font-size: 88px;
+  line-height: 88px;
 }
 
 .current-temp-unit {
